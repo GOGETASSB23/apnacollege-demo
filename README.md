@@ -1,4 +1,4 @@
 # apnacollege-demo
 this is a new repo
 <br>
-author-aryan bodke
+author-aryan bodke(IITR)
